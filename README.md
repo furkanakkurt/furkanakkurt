@@ -1,16 +1,35 @@
-### Hi there 👋
+<!--horizontal divider(gradiant)-->
 
-<!--
-**furkanakkurt/furkanakkurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--h1 without bottom border-->
 
-Here are some ideas to get you started:
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h1 style="display: inline-block">Hi there👋, I'm Furkan Akkurt</h1></summary>
+  </ul>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <ul align="left">
+    <summary><p style="display: inline-block">Cloud DevOps Engineer, AWS and GCP Certified</p><summary>
+    </ul>
+</div>
+
+<!--About Me-->
+
+## <picture><img src = "icons/f.gif" width = 30px></picture> About me
+
+<picture> <img align="right" src="icons/giphy.webp" width = 300px></picture>
+
+- :cloud: I am a `Cloud DevOps Engineer` at [Lyrebird Studio](https://lyrebirdstudio.net)
+- :technologist: **Currently working on** `Cloud DevOps Engineering` **&** `MLOps Engineering`
+- :point_right: You can visit [my website](https://furkanakkurt.com) here
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=FurkanAkkurt&amp;color=EA4335&amp;style=flat-square)](mailto:akkurtff@gmail.com)
+- :nerd_face: B.S. in Computer Science from Bilkent University
+
+<br>
+
+
+
+<div align="left">
+    <p>Last Edited on: 11/09/2023</p>
+</div>
