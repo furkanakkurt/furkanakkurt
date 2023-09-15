@@ -22,7 +22,7 @@
 
 - :cloud: I am a `Cloud DevOps Engineer` at [Lyrebird Studio](https://lyrebirdstudio.net)
 - :technologist: **Currently working on** `Cloud DevOps Engineering` **&** `MLOps Engineering`
-- :point_right: You can visit [my website](https://furkanakkurt.com) here
+- :point_right: You can visit [my website](https://furkanakkurt.com) here (to be updated soon)
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=FurkanAkkurt&amp;color=EA4335&amp;style=flat-square)](mailto:akkurtff@gmail.com)
 - :nerd_face: B.S. in Computer Science from Bilkent University
 
