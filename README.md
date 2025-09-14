@@ -1,35 +1,37 @@
-<!--horizontal divider(gradiant)-->
+# Hi there 👋, I'm Furkan Akkurt
 
-<!--h1 without bottom border-->
-
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Furkan Akkurt</h1></summary>
-  </ul>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/39063959?v=4" width="150" height="150" style="border-radius: 50%;" alt="Furkan Akkurt"/>
 </div>
 
-<div>
-    <ul align="left">
-    <summary><p style="display: inline-block">Cloud DevOps Engineer, AWS and GCP Certified</p><summary>
-    </ul>
-</div>
+## Software Engineer & Architect
+*Building highly reliable, scalable and secure systems*
 
-<!--About Me-->
+<picture> <img align="right" src="icons/giphy.webp" width = 250px></picture>
 
-## <picture><img src = "icons/f.gif" width = 30px></picture> About me
+### 🚀 Currently
+- **Software Engineer** at [Garanti BBVA Teknoloji](https://www.garantibbvateknoloji.com.tr/) - Developing an internal Java framework.
+- **Previously:** Cloud DevOps Engineer at [Lyrebird Studio](https://lyrebirdstudio.net) - Built GenAI infrastructure serving millions of requests on a daily basis.
 
-<picture> <img align="right" src="icons/giphy.webp" width = 300px></picture>
+### 💻 What I Do
+- **Cloud Architecture:** AWS, GCP, multi-cloud environments
+- **DevOps & MLOps:** Kubernetes, Terraform, CI/CD pipelines
+- **Backend Development:** Java/Spring, TypeScript/Node.js, Python
+- **System Design:** Scalable, high-availability systems
 
-- :cloud: I am a `Cloud DevOps Engineer` at [Lyrebird Studio](https://lyrebirdstudio.net)
-- :technologist: **Currently working on** `Cloud DevOps Engineering` **&** `MLOps Engineering`
-- :point_right: You can visit [my website](https://furkanakkurt.com) here (to be updated soon)
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=FurkanAkkurt&amp;color=EA4335&amp;style=flat-square)](mailto:akkurtff@gmail.com)
-- :nerd_face: B.S. in Computer Science from Bilkent University
+### 🎯 Key Achievements
+- Built ML workloads infrastructure with **40% cost reduction** using Kubernetes
+- Implemented S3 Express One Zone achieving **90% performance improvement** ([AWS Blog](https://aws.amazon.com/blogs/storage/lyrebird-improves-performance-and-reduces-costs-for-generative-ai-workloads-using-amazon-s3-express-one-zone/))
+- Reduced CI/CD build times by **50%** and costs by **60%**
+- Served **millions of daily requests** with NestJS microservices
 
-<br>
+### 🎓 Education
+**B.S. Computer Science** - Bilkent University (2017-2022)
 
+### 📫 Connect with me
+[![Website](https://img.shields.io/badge/Website-furkanakkurt.com-blue?style=flat-square&logo=globe)](https://furkanakkurt.com)
+[![Email](https://img.shields.io/badge/Email-hi@furkanakkurt.com-red?style=flat-square&logo=gmail)](mailto:hi@furkanakkurt.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/furkan-akkurt-9a1056158/)
 
-
-<div align="left">
-    <p>Last Edited on: 11/09/2023</p>
-</div>
+---
+*Last updated: September 2025*
