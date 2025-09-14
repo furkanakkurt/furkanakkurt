@@ -1,8 +1,5 @@
 # Hi there 👋, I'm Furkan Akkurt
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/39063959?v=4" width="150" height="150" style="border-radius: 50%;" alt="Furkan Akkurt"/>
-</div>
 
 ## Software Engineer & Architect
 *Building highly reliable, scalable and secure systems*
